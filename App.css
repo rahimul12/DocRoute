@@ -1,0 +1,11 @@
+.banner-sec{
+    background-image: url(https://doccure.dreamguystech.com/laravel/template/public/assets/img/search-bg.png),linear-gradient(rgba(249,249,249,0.7),rgba(249,249,249,0.4));
+    background-blend-mode:overlay;
+    background-repeat: no-repeat;  
+    background-position: bottom;
+   
+   }
+
+  .input-border-remove:focus{
+    outline: none;
+}
